@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="6227" started-at="2015-04-19T02:14:43Z" finished-at="2015-04-19T02:14:49Z">
+    <groups>
+    </groups>
+    <test name="First Test" duration-ms="6227" started-at="2015-04-19T02:14:43Z" finished-at="2015-04-19T02:14:49Z">
+      <class name="tests.neurobomber.IntroTest">
+        <test-method status="PASS" signature="FirstTest()[pri:0, instance:tests.neurobomber.IntroTest@1cbc50a2]" name="FirstTest" duration-ms="6020" started-at="2015-04-18T19:14:43Z" finished-at="2015-04-18T19:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:tests.neurobomber.IntroTest@1cbc50a2]" name="closeDriver" is-config="true" duration-ms="187" started-at="2015-04-18T19:14:49Z" finished-at="2015-04-18T19:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tests.neurobomber.IntroTest -->
+    </test> <!-- First Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>
